@@ -1,6 +1,6 @@
-# DATA 101 Fall 2024 Student Materials
+# DATA 101 Spring 2025 Student Materials
 
-**[https://data101.org/fa24/]()**
+**[https://data101.org/]()**
 
 > [!NOTE]
 > Assignments and materials will be added to this repository throughout the semester.
